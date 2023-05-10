@@ -13,6 +13,11 @@ const router = new VueRouter({
       name: "index",
       component: IndexPage,
     },
+    {
+      path: "/tk",
+      name: "tk",
+      component: () => import("../pages/tk.vue"),
+    },
     // {
     //   path: "/about",
     //   name: "about",
