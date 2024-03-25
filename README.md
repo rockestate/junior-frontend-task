@@ -1,6 +1,6 @@
 # Junior Frontend Developer Task
 
-With VueJS (preferably v2.x), create a note taking app (think Google Keep or Apple Notes).
+With VueJS (preferably v3.x), create a note taking app (think Google Keep or Apple Notes).
 
 ### POC — The app MUST:
 
